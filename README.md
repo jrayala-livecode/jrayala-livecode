@@ -4,9 +4,7 @@
 
 ### About Me
 
-I'm a Software Developer with varying experience in high-level programming languages (yeah, no C++ here).
-As much as I love coding there's still a lot that I want and need to learn. Anyways feel free to check my code,
-most of it is not in production or was used to document learning processes so it doesn't reflect my current skills.
+Software developer focused on building clean, modern, and efficient internal tools using technologies like Vue, Laravel, FastAPI, Electron, and Python. I lead small teams and handle everything from backend architecture to frontend UX, always aiming for clarity, maintainability, and speed. Most of my work involves streamlining processes, automating bottlenecks, and integrating AI when it makes sense. Feel free to hit me up.
 
 ### Hit me up
 
