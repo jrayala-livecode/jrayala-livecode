@@ -1,6 +1,6 @@
 # Joaquín Ayala
 
-## Fullstack Developer | Game Developer
+## Software developer
 
 ### About Me
 
